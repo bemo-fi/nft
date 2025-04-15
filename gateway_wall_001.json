@@ -1,0 +1,28 @@
+{
+    "name": "Gateway Wall #001",
+    "description": "A unique piece from the 'Gateway Wall: Signed by Bemo' collection, featuring real signatures from The Gateway 2024 event.",
+    "image": "images/gateway_wall_001.png",
+    "attributes": [
+        {
+            "trait_type": "Event",
+            "value": "The Gateway 2024"
+        },
+        {
+            "trait_type": "Signatures",
+            "value": "Alice, Bob, Charlie"
+        },
+        {
+            "trait_type": "Stickers",
+            "value": "Bemo Logo, Web3, DeFi"
+        },
+        {
+            "trait_type": "Background Color",
+            "value": "Bemo Blue"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Common"
+        }
+    ],
+    "external_url": "https://bemo.fi"
+}
