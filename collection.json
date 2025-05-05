@@ -1,14 +1,8 @@
 {
   "name": "Gateway Wall: Signed by Bemo",
   "description": "At TON Gateway, we kicked off a spontaneous and fun activity: a sticker wall that turned into a vibrant canvas of signatures, shoutouts, and community vibes. It wasn\u2019t just a wall\u2014it became a moment, a memory, a snapshot of real people building the TON ecosystem together.\n\nTo preserve that moment and share it with the world, we\u2019ve transformed the wall into a unique NFT collection. 'Gateway Wall: Signed by Bemo' captures the energy, creativity, and spirit of the conference\u2014now forever on-chain.",
-  "image": [
-    "https://raw.githubusercontent.com/bemo-fi/nft/main/600x600.png", 
-    "https://raw.githubusercontent.com/bemo-fi/nft/main/NFT_TG_1.png", 
-    "https://raw.githubusercontent.com/bemo-fi/nft/main/NFT_TG_2.png", 
-    "https://raw.githubusercontent.com/bemo-fi/nft/main/NFT_TG_3.png", 
-    "https://raw.githubusercontent.com/bemo-fi/nft/main/NFT_TG_4.png", 
-    "https://raw.githubusercontent.com/bemo-fi/nft/main/NFT_TG_5.png"
-  ],
+  "image": "https://raw.githubusercontent.com/bemo-fi/nft/main/600x600.png",
+  "cover_image": "https://raw.githubusercontent.com/bemo-fi/nft/main/1400x350.png",
   "external_url": "https://bemo.fi/",
   "social_links": [
     "https://t.me/bemofinance",
