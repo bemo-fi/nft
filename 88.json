@@ -1,7 +1,7 @@
 {
-    "name": "Gateway Wall #002",
+    "name": "Gateway Wall #004",
     "description": "A unique piece from the 'Gateway Wall: Signed by Bemo' collection, featuring real signatures from The Gateway 2024 event.",
-    "image": "https://raw.githubusercontent.com/bemo-fi/nft/main/NFT_TG_2.png",
+    "image": "https://raw.githubusercontent.com/bemo-fi/nft/main/NFT_TG_4.png",
     "attributes": [
         {
             "trait_type": "Event",
@@ -9,19 +9,19 @@
         },
         {
             "trait_type": "Signatures",
-            "value": "TAC, Adoption, CATIZEN"
+            "value": "0xYugiAI, NOMIS, APPSS"
         },
         {
             "trait_type": "Stickers",
-            "value": "Bemo Logo, Staking, Blockchain"
+            "value": "Bemo Logo, Layer 2, Crypto"
         },
         {
             "trait_type": "Background Color",
-            "value": "Bemo Purple"
+            "value": "Bemo Light"
         },
         {
             "trait_type": "Rarity",
-            "value": "Uncommon"
+            "value": "Epic"
         }
     ],
     "external_url": "https://bemo.fi"
